@@ -4,7 +4,7 @@ Este proyecto crea una interfaz gráfica en Java que se conecta a una base de da
 
 ## Captura de Pantalla
 
-![Interfaz Gráfica](./imagen.png)
+![imagen](https://github.com/CristopherJimenezt/InterfazBasededatos/assets/169114304/3f9dce3a-593c-48bc-b3b2-2e4e50686f33)
 
 ## Código Fuente
 
