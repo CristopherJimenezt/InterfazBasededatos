@@ -1,4 +1,4 @@
-# Interfaz Gráfica de Drivers de Fórmula 1
+# Interfaz Fórmula 1
 
 Este proyecto crea una interfaz gráfica en Java que se conecta a una base de datos PostgreSQL para mostrar una tabla de pilotos de Fórmula 1 por año de carrera. Utiliza `Swing` para la interfaz gráfica y `JDBC` para la conexión a la base de datos.
 
